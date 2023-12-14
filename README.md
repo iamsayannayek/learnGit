@@ -1,15 +1,23 @@
-### Git Commands
+# Work flow for Git
 
-Learning git from Apna College
-<br/>
-Author- Sayan Nayek
+## Step 1:
 
-## Local to Remote
+git clone "Repos link"
 
-# Step 1:
+## Step 2:
 
-git init //Initialize the folder
+Doing some changes
 
-# Step 2:
+## Step 3:
 
-git branch
+Adding changes to git: git add .
+
+## Step 4:
+
+Commit changes: git commit -m "message for commit"
+
+## Step 5:
+
+Push to the Repo: git push -u origin main (For initial stage of pushing)
+<br>
+After that you only using git push
